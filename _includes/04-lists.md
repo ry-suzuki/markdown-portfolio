@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+1. 読書
+2. ゲーム
+    1. switch
+    2. pc
+3. Youtube
+
+* 豆腐料理
+  * マーボ豆腐
+  * 肉豆腐
+* ハンバーグ
